@@ -1,6 +1,6 @@
 #include "monty.h"
 
-globals_t vglo;
+global_t vglo;
 
 /**
  * check_input - checks if file exists and can be opened
